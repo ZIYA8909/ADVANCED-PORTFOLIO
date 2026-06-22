@@ -50,9 +50,7 @@ const Navbar = () => {
   return (
     <>
       <div className="header">
-        <a href="/#" className="navbar-title" data-cursor="disable">
-          Logo
-        </a>
+
         <a
           href="mailto:ziyak5344@gmail.com"
           className="navbar-connect"
