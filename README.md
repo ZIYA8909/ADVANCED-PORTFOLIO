@@ -20,7 +20,7 @@ An immersive developer portfolio featuring a real-time animated 3D robot, physic
 
 This is my personal **Advanced Portfolio** website — a premium, interactive experience designed to stand out. It features a **real-time 3D animated robot character** that reacts to your cursor, a full **GSAP scroll-driven story** across sections, **physics-based floating tech logos**, and a clean responsive layout built with React + TypeScript.
 
-> 🔗 **Live:** [advanced-portfolio-3ixe.vercel.app](https://advanced-portfolio-3ixe.vercel.app/)
+> 🔗 **Live:** [advanced-portfolio-tcu2.vercel.app](https://advanced-portfolio-tcu2.vercel.app/)
 > 📧 **Contact:** ziyak5344@gmail.com
 > 💼 **LinkedIn:** [linkedin.com/in/ziyakhan](https://linkedin.com/in/ziyakhan)
 > 🐙 **GitHub:** [github.com/ZIYA8909](https://github.com/ZIYA8909)
